@@ -1,0 +1,23 @@
+{
+  "name": "INExpressJSSnippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkumbhashi/INExpressJSSnippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshkumbhashi/INExpressJSSnippets/issues"
+  },
+  "homepage": "https://github.com/ganeshkumbhashi/INExpressJSSnippets#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
