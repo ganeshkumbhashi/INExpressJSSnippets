@@ -9,3 +9,7 @@ run http://localhost:5000
 npm install nodemon
 
 npm run dev
+
+Get request -> http://localhost:5000/api/members
+
+npm install momemt
