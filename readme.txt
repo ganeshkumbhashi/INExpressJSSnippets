@@ -18,3 +18,6 @@ npm install uuid
 
 npm install express-handlebars
 
+Test Handlebar  -> http://localhost:5000
+
+
