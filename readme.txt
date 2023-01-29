@@ -13,3 +13,8 @@ npm run dev
 Get request -> http://localhost:5000/api/members
 
 npm install momemt
+
+npm install uuid
+
+npm install express-handlebars
+
